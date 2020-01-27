@@ -1,0 +1,29 @@
+#StartB {
+    padding: 60px 40px;
+    margin: 100px;
+    height: 100px;
+    width: 200px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    color: brown;
+}
+
+#ChangeB {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+    padding: 5px 22px;
+    cursor: default;
+    color: blue;
+    background: yellow;
+}
+
+#WordList {
+    font-size: 30px;
+    background-image: linear-gradient(orange, blue);
+}
+
+#WordListChanged {
+    font-size: 20px;
+    background-image: linear-gradient(blue, orange);
+    display: none;
+}
